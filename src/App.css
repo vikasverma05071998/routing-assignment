@@ -1,0 +1,38 @@
+.heading{
+    background-color:darkslateblue;
+    color: white;
+}
+#head{
+    margin: 120px;
+    font-size: 50px;
+    padding: 10px;
+    text-decoration:dashed;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    
+}
+#dash{
+    margin: 120px;
+    font-size: 50px;
+    padding: 10px;
+    text-decoration:dashed;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+#use{
+    margin: 120px;
+    font-size: 50px;
+    padding: 10px;
+    text-decoration:dashed;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+
+}
+.heading{
+        height: 200px;
+}
+#comp{
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
